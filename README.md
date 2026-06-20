@@ -4,7 +4,8 @@
 <!--                        ANIMATED HEADER                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,40:1c2431,60:1a3a5c,80:1f6feb,100:58a6ff&height=200&section=header&text=Sayed%20Herzallah&fontSize=44&fontColor=58a6ff&fontFamily=Outfit&animation=twinkling&fontAlignY=28&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architect&descSize=17&descAlignY=50&descAlign=50" width="100%" />
+<!-- تم تعديل اللون هنا إلى ffffff (الأبيض الناصع) ليكون شديد الوضوح وعالي التباين -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,40:1c2431,60:1a3a5c,80:1f6feb,100:58a6ff&height=200&section=header&text=Sayed%20Herzallah&fontSize=44&fontColor=ffffff&fontFamily=Outfit&animation=twinkling&fontAlignY=28&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architect&descSize=17&descAlignY=50&descAlign=50" width="100%" />
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 
@@ -254,8 +255,8 @@ const sayedHerzallah = {
 ## 📈 Live Metrics
 
 <div align="center">
-  <!-- عرض البطاقات الثلاثة متجاورة أفقياً مع إخفاء اللغات غير المطلوبة وترشيح Node/TS فقط -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayed-Herzallah&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&ring_color=58a6ff&border_radius=12" height="180px" />
+  <!-- تم إضافة &hide_rank=true لإخفاء التقييم C+ تماماً -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayed-Herzallah&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&ring_color=58a6ff&border_radius=12&hide_rank=true" height="180px" />
   &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=Sayed-Herzallah&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&border_radius=12" height="180px" />
   &nbsp;&nbsp;
