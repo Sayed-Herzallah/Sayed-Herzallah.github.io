@@ -4,7 +4,7 @@
 <!--                        ANIMATED HEADER                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,30:1a1e2e,50:0e4429,70:006d32,85:00b4d8,100:58a6ff&height=200&section=header&text=Sayed%20Herzallah&fontSize=44&fontColor=e6edf3&animation=twinkling&fontAlignY=28&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architect&descSize=17&descAlignY=50&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,40:1c2431,60:1a3a5c,80:1f6feb,100:58a6ff&height=200&section=header&text=Sayed%20Herzallah&fontSize=44&fontColor=e6edf3&animation=twinkling&fontAlignY=28&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architect&descSize=17&descAlignY=50&descAlign=50" width="100%" />
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 
@@ -26,12 +26,12 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
 ## `> whoami`
 
 ```js
-const spikeHerzallah = {
+const sayedHerzallah = {
     role:       "Backend Engineer & System Architect",
     location:   "Cairo, Egypt",
     focus:      ["API Architecture", "Database Engineering", "Real-Time Systems"],
@@ -41,7 +41,7 @@ const spikeHerzallah = {
 ```
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
 ## ⚙️ Engineering Principles
 
@@ -67,7 +67,7 @@ const spikeHerzallah = {
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
 ## 🧬 Core Architecture Stack
 
@@ -139,7 +139,7 @@ const spikeHerzallah = {
 </details>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
 ## 🏆 Achievements
 
@@ -148,7 +148,7 @@ const spikeHerzallah = {
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
 ## 🏗️ System Architectures
 
@@ -242,7 +242,7 @@ const spikeHerzallah = {
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
 ## 📈 Live Metrics
 
@@ -250,7 +250,7 @@ const spikeHerzallah = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sayed-Herzallah&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&ring_color=58a6ff&border_radius=12" height="180px" />
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Herzallah&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&border_radius=12" height="180px" />
+<img src="https://streak-stats.demolab.com/?user=Sayed-Herzallah&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&border_radius=12" height="180px" />
 
 <br><br>
 
@@ -263,20 +263,7 @@ const spikeHerzallah = {
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" width="100%" />
-
-## 🐍 Contribution Graph
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayed-Herzallah/Sayed-Herzallah/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sayed-Herzallah/Sayed-Herzallah/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Sayed-Herzallah/Sayed-Herzallah/output/github-snake-dark.svg" width="100%" />
-</picture>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
 <div align="center">
 
@@ -284,7 +271,7 @@ const spikeHerzallah = {
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,30:1a1e2e,50:0e4429,70:006d32,85:00b4d8,100:58a6ff&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,40:1c2431,60:1a3a5c,80:1f6feb,100:58a6ff&height=120&section=footer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=2500&color=8b949e&center=true&vCenter=true&repeat=true&width=450&height=22&lines=Architected+with+intention.+Built+for+production." alt="Footer" />
 
