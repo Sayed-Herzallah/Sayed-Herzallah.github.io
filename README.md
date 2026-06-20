@@ -67,7 +67,15 @@ I am a passionate **Backend-Focused Full-Stack Developer** specializing in build
 
 ---
 
-### 🌟 Key Featured Projects
-* 🎓 **[Ataa Platform API](https://github.com/Sayed-Herzallah/Ataa-Charity-Platform-API-Backend)**: Role-based charity API featuring Groq SDK (Llama/Gemma) automated campaign validation and rate-limiting.
-* 🌐 **[Social Media AI Engine](https://github.com/Sayed-Herzallah/Social-Mdeia-Application)**: Real-time backend with Socket.io WebSockets and multi-LLM (Gemini, OpenAI, Ollama) post moderation.
-* 🛡️ **[Insider Guardian](https://github.com/Sayed-Herzallah/insider-guardian)**: Enterprise EDR security client dashboard visualizing system threats using React 19, TS, GSAP, and Recharts.
+### 🌟 Top 10 Featured Projects
+
+1. 🎓 **[Ataa Platform API](https://github.com/Sayed-Herzallah/Ataa-Charity-Platform-API-Backend)**: Role-based charity API featuring Groq SDK (Llama/Gemma) automated campaign validation and rate-limiting.
+2. 🌐 **[Social Media AI Engine](https://github.com/Sayed-Herzallah/Social-Mdeia-Application)**: Real-time backend with Socket.io WebSockets and multi-LLM (Gemini, OpenAI, Ollama) post moderation.
+3. 🧬 **[Ataa Charity Frontend](https://github.com/Sayed-Herzallah/Ataa-Charity-Platform)**: Enterprise React 18, TypeScript & Tailwind client featuring multi-tier dashboards.
+4. 🧠 **[NeuroScan Brain Tumor Platform](https://github.com/Sayed-Herzallah/NeuroScan-Brain-Tumor-Detection-Platform-React)**: Healthcare React application displaying brain tumor detection telemetry and medical scan modules.
+5. 🏥 **[R3aya Care System API](https://github.com/Sayed-Herzallah/R3aya-Care-System-Api)**: Robust medical management API backend built with Express for secure patient records and bookings.
+6. 📈 **[Ataa Backend Viewer](https://github.com/Ataa-Charity-Viewer-Team/Ataa-Charity-Platform-API-Backend-Viewer)**: Campaign auditing and statistical analytical analytics dashboard for charity organizers.
+7. ⚡ **[Green Energy Dashboard](https://github.com/Green-Economy/Green-Energy-Dashboard-React)**: Dynamic React dashboard displaying solar and wind telemetry stats with interactive charts.
+8. 🌴 **[Siwa Oasis API](https://github.com/Sayed-Herzallah/Siwa-Oasis-APi)**: Tourism travel booking and reservations backend engine handling complex date scheduling.
+9. 🔒 **[Sharaha Messaging API](https://github.com/Sayed-Herzallah/Sharaha-App-Api)**: Privacy-focused feedback API implementing AES-256 database encryption at rest (CryptoJS).
+10. 🛡️ **[Insider Guardian EDR](https://github.com/Sayed-Herzallah/insider-guardian)**: Enterprise EDR frontend dashboard featuring Recharts visualization and hardware-accelerated GSAP layouts.
