@@ -163,32 +163,51 @@ const sayedHerzallah = {
 
 > Production-grade systems — designed and built end-to-end.
 
-<!-- تم الترتيب التنازلي مع تقديم "عطاء" كأول وأقوى مشروع لك -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌟 [Ataa — Charity Platform](https://github.com/Sayed-Herzallah/Ataa-Charity-Platform-React-TypeScript)
+### 🌟 [Ataa — Charity Platform](https://github.com/Sayed-Herzallah/ataa-smart-charity-platform)
 
 **`PROBLEM`** Production donation system needing audit trails and analytics.
 
 **`SOLUTION`**
-- Decoupled React/TypeScript frontend + Node.js API
+- Decoupled high-fidelity frontend templates + secure dashboards
 - Immutable donation audit trail with full history
 - Role-based dashboards with real-time analytics
 - Complex state management and form validation
 
 <p>
-<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ [Siwa — Booking Engine](https://github.com/Sayed-Herzallah/Siwa-Oasis-APi)
+### 🎓 [Mobadratna — Student Initiatives Platform](https://github.com/Mobadratna-Org/mobadratna-student-portal)
+
+**`PROBLEM`** Fragmented student initiatives and graduation projects lacking voluntary support.
+
+**`SOLUTION`**
+- Decentralized platform connecting initiatives with student volunteers
+- Full administrative management controls & telemetry stats
+- Cairo typography Arabic layout interface
+- Secure raw PHP API logic with prepared PDO database protection
+
+<p>
+<img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ [Siwa — Booking Engine](https://github.com/Siwa-Oasis-Org/siwa-oasis-tourism-api)
 
 **`PROBLEM`** Double-booking race conditions during peak traffic causing financial errors.
 
@@ -202,15 +221,12 @@ const sayedHerzallah = {
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/Sequelize-0d1117?style=flat-square&logo=sequelize&logoColor=52B0E7" />
-<img src="https://img.shields.io/badge/InnoDB-0d1117?style=flat-square&logo=databricks&logoColor=FF3621" />
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🏥 [R3aya — Medical Telemetry Engine](https://github.com/Sayed-Herzallah/R3aya-Care-System-Api)
+### 🏥 [R3aya — Medical Telemetry Engine](https://github.com/Sayed-Herzallah/r3aya-care-system-api)
 
 **`PROBLEM`** Real-time EMG sensor data needed sub-second delivery with zero data loss.
 
@@ -224,13 +240,14 @@ const sayedHerzallah = {
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
 <img src="https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=d63aff" />
 </p>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-### 💬 [Social Graph — Feed System](https://github.com/Sayed-Herzallah/Social-Media-APi)
+### 💬 [Social Graph — Feed System](https://github.com/Sayed-Herzallah/social-media-api)
 
 **`PROBLEM`** Timeline retrieval at scale with real-time concurrent messaging.
 
@@ -244,15 +261,11 @@ const sayedHerzallah = {
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
 <img src="https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Mongoose-0d1117?style=flat-square&logo=mongoose&logoColor=880000" />
 </p>
 
 </td>
 </tr>
 </table>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
 
 ## 📈 Live Metrics
 
